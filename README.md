@@ -1,6 +1,6 @@
 # América Latina: Análisis Macroeconómico 2017-2021
 
-Tecnologías utilizadas: SQL y Power BI 
+Tecnologías utilizadas: SQL, Power BI 
 
 Datos extraídos de la Comisión Económica para América Latina y el Caribe (CEPAL)
 
